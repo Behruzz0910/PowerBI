@@ -1,0 +1,4 @@
+CustID,Full Name,Product,Quantity,OrderDate,Email
+1,Alice Smith,Mouse,2,2023-01-10,alice@example.com
+2,Bob Johnson,Keyboard,1,2023-01-15,
+3,Carol White,Monitor,3,2023-01-20,carol@example.com
